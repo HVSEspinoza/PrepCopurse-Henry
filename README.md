@@ -1,2 +1,1 @@
-# PrepCopurse-Henry
-repositorio de prueba bootcamp pt27 
+este es un repositorio de prueba y clonarlo desde github
